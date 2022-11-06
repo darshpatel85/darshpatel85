@@ -3,7 +3,7 @@
 - ReactJS, NodeJS, HTML, CSS, javascript.
 - 🌱 I’m currently learning Next.js
 - 💞️ I’m looking to collaborate on javascript Projects.
-- 📫 Message me at darshspatel85@gmail.com
+- 📫 <a href="mailto:darshspatel85@gmail.com">Hire Me</a>
 
 <!---
 darshpatel85/darshpatel85 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
